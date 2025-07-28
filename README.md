@@ -1,3 +1,6 @@
+Forked from:<br>
+https://github.com/wlee412/near<br>
+
 ## 소개
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=4&text=n:ear&animation=fadeIn&textBg=false&desc=가까이%20귀%20기울이는%20누군가,%20n:ear&fontColor=ffffff" />
